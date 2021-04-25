@@ -12,8 +12,8 @@ export default function BlogPage({data}) {
   return (
     <Layout>
       <Seo
-        title="Blog | Jake Wiesler"
-        description="An index of blog posts written by Jake Wiesler."
+        title="Blog | Janislley Oliveira"
+        description="An index of blog posts written by Janislley Oliveira."
         pageUrl="/blog"
       ></Seo>
       {posts.map(({node}) => (
