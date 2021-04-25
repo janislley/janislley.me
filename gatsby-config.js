@@ -2,18 +2,18 @@ const remarkSlug = require('remark-slug')
 
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://jakewiesler.com`,
+    siteUrl: `https://janislley.me`,
     social: {
-      github: 'jakewies',
-      twitter: 'jakewies',
-      instagram: 'jakewies',
+      github: 'janislley',
+      twitter: 'janislley',
+      instagram: 'janislley',
     },
   },
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-88270202-1`,
+        trackingId: `G-JHVT98BT3G`,
       },
     },
     {
@@ -95,7 +95,7 @@ module.exports = {
           }
           `,
             output: '/blog/rss.xml',
-            title: `Jake Wiesler's Blog RSS Feed`,
+            title: `Janislley's Blog RSS Feed`,
           },
         ],
       },
