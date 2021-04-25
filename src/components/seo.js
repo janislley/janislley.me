@@ -41,7 +41,7 @@ function SEO({title, description, pageUrl, isBlogPost}) {
 
       {/* Twitter Card tags */}
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:creator" content="https://www.twitter.com/jakewies" />
+      <meta name="twitter:creator" content="https://www.twitter.com/janislley" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
     </Helmet>
