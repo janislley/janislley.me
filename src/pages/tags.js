@@ -12,7 +12,7 @@ export default function TagsPage({data}) {
   return (
     <Layout>
       <Seo
-        title="Jake Wiesler"
+        title="JAnislley Oliveira"
         description="An index of all content by topic."
         pageUrl="/tags"
       ></Seo>
