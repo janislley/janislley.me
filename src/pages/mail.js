@@ -11,7 +11,7 @@ export default function MailPage() {
   return (
     <Layout>
       <Seo
-        title="Jake Wiesler"
+        title="Janislley Oliveira"
         description="Sign up for my private email list."
         pageUrl="/mail"
       ></Seo>
@@ -42,7 +42,7 @@ export default function MailPage() {
           <Styled.p sx={{fontSize: 0, color: 'primary', mt: 2}}>
             Not sure?{' '}
             <a
-              href="https://buttondown.email/jakewiesler/archive"
+              href="https://buttondown.email/janislley/archive"
               alt="Browse the archive"
               sx={{color: 'primary'}}
             >
