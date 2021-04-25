@@ -28,13 +28,13 @@ export default function Footer() {
             </Link>
           </div>
           <div>
-            <a href="https://github.com/jakewies" sx={{mr: 3}}>
+            <a href="https://github.com/janislley" sx={{mr: 3}}>
               <AiOutlineGithub sx={iconStyles} />
             </a>
-            <a href="https://twitter.com/jakewies" sx={{mr: 3}}>
+            <a href="https://twitter.com/janislley" sx={{mr: 3}}>
               <AiOutlineTwitter sx={iconStyles} />
             </a>
-            <a href="https://instagram.com/jakewies">
+            <a href="https://instagram.com/janislley">
               <AiFillInstagram sx={iconStyles} />
             </a>
           </div>
