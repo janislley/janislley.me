@@ -229,7 +229,7 @@ function AboutMeCTA() {
       </div>
       <div sx={{textAlign: ['center', 'initial']}}>
         <Styled.h3 sx={{mt: 0}}>
-          Hey, I'm Jake!
+          Hey, I'm Janislley!
           <span
             sx={{display: 'inline-block', pl: 2}}
             role="img"
@@ -339,22 +339,6 @@ function ForHireCTA({visible}) {
       >
         <AiOutlineClose />
       </button>
-      <span sx={{pr: 3}} role="img" aria-label="rocketship">
-        🚀
-      </span>
-      <div>
-        <Styled.p
-          sx={{fontWeight: 'heading', fontSize: 1, mt: 0, lineHeight: 1}}
-        >
-          I'm Available For Remote Work!
-        </Styled.p>
-        <Styled.a
-          sx={{fontSize: 1}}
-          href="mailto:jakewiesler@gmail.com?subject=Remote Work Inquiry"
-        >
-          Hire me
-        </Styled.a>
-      </div>
     </div>
   )
 }
